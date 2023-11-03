@@ -1,2 +1,2 @@
 # java_trials
-example code
+This repo is used to host java example files
